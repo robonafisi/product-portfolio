@@ -60,15 +60,16 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-              I am a customer-obsessed professional with a passion for leveraging data and innovative solutions to meet your product and design needs. With a background in Mathematics and Physics, I bring a unique analytical perspective to every project.
-              My experience as a Data Science Consultant, Technical Founder, and Product Manager has honed my ability to understand the intricacies of your business requirements and deliver tailored solutions that exceed expectations.
+              am a results-driven professional who is deeply dedicated to meeting your product and design requirements.
+              With a solid academic grounding in Mathematics and Physics, I offer a distinctive analytical approach to each project.
+              Drawing from my experience as a Data Science Consultant, Technical Founder, and Product Manager, I have honed my ability to grasp intricate business needs and deliver customized solutions that consistently surpass expectations.
               </p>
               <p className="my-4 font-medium">
-              I believe in building strong relationships with my clients, listening attentively to their goals, and focusing on delivering results that add real value to their businesses.
-              My commitment to excellence and attention to detail ensure that every project is executed with precision and efficiency.
+              I firmly believe in fostering robust client relationships, actively listening to their objectives, and delivering tangible value to their enterprises.
+              My unwavering commitment to excellence and meticulous attention to detail ensure the precise and efficient execution of every project.
               </p>
               <p className="font-medium">
-              I take pride in collaborating closely with teams to identify challenges, uncover opportunities, and devise strategies that drive success.
+              I take great pride in my collaborative approach, working closely with teams to identify challenges, uncover opportunities, and devise strategies that pave the way for success.
               </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
