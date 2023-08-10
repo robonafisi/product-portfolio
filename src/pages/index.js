@@ -45,7 +45,7 @@ export default function Home() {
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-              As a product-oriented developer, I bring specialized expertise in crafting innovative B2B solutions, catering specifically to the distinctive requirements of small businesses and startups. My acute attention to detail and commitment to excellence drive me to transform ideas into refined products, leveraging cutting-edge software development, system optimization, and intuitive user interface design. By collaboratively building transformative technology, I aim to empower your B2B venture to thrive in the dynamic and competitive business landscape, ensuring your success is grounded in sophisticated, tailored solutions.
+              As a product-oriented developer, I bring a multidisciplinary vision to B2B solutions, catering specifically to the distinctive requirements of small businesses and startups. My acute attention to detail and commitment to excellence drive me to bring captivating experiences to every project I work on.
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
@@ -65,7 +65,7 @@ export default function Home() {
                 </Link>
 
                 <Link
-                  href="mailto:codebucks27@gmail.com"
+                  href="mailto:nafisidev@gmail.com"
                   className="ml-4 text-lg font-medium capitalize text-dark underline 
                   dark:text-light md:text-base"
                 >

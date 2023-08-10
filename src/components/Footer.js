@@ -24,7 +24,7 @@ const Footer = () => {
         </div> */}
 
         <Link
-          href="mailto:nafisidev@gmail.com"
+          href="https://calendly.com/product-with-mo/intro-call"
           target="_blank"
           className="underline underline-offset-2"
         >

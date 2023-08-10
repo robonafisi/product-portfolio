@@ -60,7 +60,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-              am a results-driven professional who is deeply dedicated to meeting your product and design requirements.
+              I am a results-driven professional who is deeply dedicated to meeting your product and design requirements.
               With a solid academic grounding in Mathematics and Physics, I offer a distinctive analytical approach to each project.
               Drawing from my experience as a Data Science Consultant, Technical Founder, and Product Manager, I have honed my ability to grasp intricate business needs and deliver customized solutions that consistently surpass expectations.
               </p>
