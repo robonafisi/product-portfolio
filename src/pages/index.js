@@ -18,9 +18,7 @@ export default function Home() {
         <title>Mo Nafisi Portfolio</title>
         <meta
           name="description"
-          content="Explore CodeBucks's Next.js developer portfolio and 
-        discover the latest webapp projects and software engineering articles. 
-        Showcase your skills as a full-stack developer and software engineer."
+          content="The portfolio website of Mo Nafisi. Mo is a technical product leader with a knack for design details and customer obsession."
         />
       </Head>
 
