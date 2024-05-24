@@ -7,8 +7,8 @@ import Image from "next/image";
 import Link from "next/link";
 import proj1 from "../../public/images/projects/PatientSupport.jpg";
 import proj2 from "../../public/images/projects/InteractiveSales.png";
-import proj3 from "../../public/images/projects/TicTacToe.png";
-import proj4 from "../../public/images/projects/SmartWhiteboard.png";
+import proj3 from "../../public/images/projects/ExamplePage.png";
+import proj4 from "../../public/images/projects/RealEstate.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
@@ -253,12 +253,12 @@ export default function Projects() {
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                type="AI Project"
-                title="Smart Whiteboard"
-                summary="An experiment in new UI paradigms in AI tools. Move the result of your OpenAI GPT-3 API call to the Excalidraw whiteboard and expand on it in brainstorming sessions."
+                type="Minimalist Design"
+                title="Stunning Minimalist Website"
+                summary="Minimalist website for service businesses with specific messaging and ask. High conversion and simple messaging."
                 img={proj4}
-                link="https://tic-tac-toe-24ga.vercel.app"
-                github="https://github.com/robonafisi/smart-whiteboard-ai"
+                link="https://bit.ly/pixelpioneerdemo"
+                github="https://bit.ly/pixelpioneerdemo"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -269,13 +269,12 @@ export default function Projects() {
                 link="https://youtu.be/-RDnd91vlo4"
               />
             </div>
-            <div className="col-span-6 sm:col-span-12">
-              <Project
+              <div className="col-span-6 sm:col-span-12">
+              <ProjectSecond
                 type="Project"
-                title="TicTacToe Game"
+                title="Stunning Website"
                 img={proj3}
-                link="https://tic-tac-toe-nine-opal.vercel.app/"
-                github="https://github.com/robonafisi/Tic-Tac-Toe"
+                link="https://bit.ly/pixelpioneer"
               />
             </div>
           </div>
