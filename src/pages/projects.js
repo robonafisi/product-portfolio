@@ -8,7 +8,7 @@ import Link from "next/link";
 import proj1 from "../../public/images/projects/PatientSupport.jpg";
 import proj2 from "../../public/images/projects/InteractiveSales.png";
 import proj3 from "../../public/images/projects/ExamplePage.png";
-import proj4 from "../../public/images/projects/RealEstate.png";
+import proj4 from "../../public/images/projects/SmartWhiteboard.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
@@ -253,12 +253,12 @@ export default function Projects() {
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                type="Minimalist Design"
-                title="Stunning Minimalist Website"
-                summary="Minimalist website for service businesses with specific messaging and ask. High conversion and simple messaging."
+                type="AI Project"
+                title="Smart Whiteboard"
+                summary="An experiment in new UI paradigms in AI tools. Move the result of your OpenAI GPT-3 API call to the Excalidraw whiteboard and expand on it in brainstorming sessions."
                 img={proj4}
-                link="https://bit.ly/pixelpioneerdemo"
-                github="https://bit.ly/pixelpioneerdemo"
+                link="https://tic-tac-toe-24ga.vercel.app"
+                github="https://github.com/robonafisi/smart-whiteboard-ai"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
